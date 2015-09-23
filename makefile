@@ -22,3 +22,7 @@ pc8: pc8.cpp
 project1: project1.cpp
 	g++ -o project1 project1.cpp
 	
+# Target for programming challenge 9
+# Date completed: 9/22/15
+pc9: pc9.cpp
+	g++ -o pc9 pc9.cpp
