@@ -96,7 +96,6 @@ void swapValues (int values[], int index1, int index2) {
 }
 
 
-// CODE HERE -- FUNCTION DEFINITIONS
 
 /*
  * Unit testing functions. Do not alter.
