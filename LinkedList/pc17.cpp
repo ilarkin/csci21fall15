@@ -1,5 +1,8 @@
 /*
  * Programming Challenge 17 - UNIT TEST
+ * Ian Larkin 
+ * No changes from provided code other than uncommenting #include "SLNode.h"
+ * October 22, 2015
  */
 
 #include "SLNode.h"
