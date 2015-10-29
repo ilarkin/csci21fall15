@@ -15,8 +15,10 @@ class SList {
         ~SList();
         
         void insertHead(int contents);
+        void insertTail(int contents);
         
         void removeHead();
+        void removeTail();
         void clear();
         unsigned int getSize() const;
         string toString() const;
